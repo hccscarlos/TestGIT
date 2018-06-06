@@ -7,3 +7,4 @@ This is my first text file.
 This is my first text file.
 This is my first text file.
 This is my first text file.
+this line was added using the vi editor.
